@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/bin/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Soldier and Bananas - Problem -546A/A. Soldier and Bananas - Problem -546A/obj/Debug/netcoreapp3.1/A. Soldier and Bananas - Problem -546A.genruntimeconfig.cache

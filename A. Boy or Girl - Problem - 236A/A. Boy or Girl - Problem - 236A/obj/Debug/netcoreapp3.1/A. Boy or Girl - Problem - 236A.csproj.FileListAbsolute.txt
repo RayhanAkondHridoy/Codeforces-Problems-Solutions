@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/bin/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Boy or Girl - Problem - 236A/A. Boy or Girl - Problem - 236A/obj/Debug/netcoreapp3.1/A. Boy or Girl - Problem - 236A.genruntimeconfig.cache

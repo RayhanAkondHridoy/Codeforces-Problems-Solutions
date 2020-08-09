@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/bin/Debug/netcoreapp3.1/A. Football - Problem - 96A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Football - Problem - 96A/A. Football - Problem - 96A/obj/Debug/netcoreapp3.1/A. Football - Problem - 96A.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/bin/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Way Too Long Words - Problem - 71A/A. Way Too Long Words - Problem - 71A/obj/Debug/netcoreapp3.1/A. Way Too Long Words - Problem - 71A.genruntimeconfig.cache

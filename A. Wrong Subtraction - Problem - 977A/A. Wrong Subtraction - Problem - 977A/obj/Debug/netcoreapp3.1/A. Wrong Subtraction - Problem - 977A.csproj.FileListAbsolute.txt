@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/bin/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Wrong Subtraction - Problem - 977A/A. Wrong Subtraction - Problem - 977A/obj/Debug/netcoreapp3.1/A. Wrong Subtraction - Problem - 977A.genruntimeconfig.cache

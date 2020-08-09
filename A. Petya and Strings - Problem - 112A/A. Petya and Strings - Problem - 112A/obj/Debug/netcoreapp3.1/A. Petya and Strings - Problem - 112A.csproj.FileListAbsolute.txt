@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/bin/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/A. Petya and Strings - Problem - 112A/A. Petya and Strings - Problem - 112A/obj/Debug/netcoreapp3.1/A. Petya and Strings - Problem - 112A.genruntimeconfig.cache

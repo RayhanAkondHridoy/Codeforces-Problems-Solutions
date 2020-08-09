@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A. Bear and Big Brother - Problem - 791A/1.0.0": {
+        "runtime": {
+          "A. Bear and Big Brother - Problem - 791A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Bear and Big Brother - Problem - 791A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

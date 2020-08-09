@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/bin/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 617A - A. Elephant/Problem - 617A - A. Elephant/obj/Debug/netcoreapp3.1/Problem - 617A - A. Elephant.genruntimeconfig.cache

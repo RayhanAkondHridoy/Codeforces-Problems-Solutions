@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/bin/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 110A - A. Nearly Lucky Number/Problem - 110A - A. Nearly Lucky Number/obj/Debug/netcoreapp3.1/Problem - 110A - A. Nearly Lucky Number.genruntimeconfig.cache
