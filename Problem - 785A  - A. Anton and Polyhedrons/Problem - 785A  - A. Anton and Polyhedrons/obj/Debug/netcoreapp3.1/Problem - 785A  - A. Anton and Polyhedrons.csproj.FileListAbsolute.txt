@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/bin/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 785A  - A. Anton and Polyhedrons/Problem - 785A  - A. Anton and Polyhedrons/obj/Debug/netcoreapp3.1/Problem - 785A  - A. Anton and Polyhedrons.genruntimeconfig.cache

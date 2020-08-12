@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/bin/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 200B - B. Drinks/Problem - 200B - B. Drinks/obj/Debug/netcoreapp3.1/Problem - 200B - B. Drinks.genruntimeconfig.cache

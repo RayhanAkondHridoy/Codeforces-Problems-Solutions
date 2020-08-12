@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/bin/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 486A - A. Calculating Function/Problem - 486A - A. Calculating Function/obj/Debug/netcoreapp3.1/Problem - 486A - A. Calculating Function.genruntimeconfig.cache

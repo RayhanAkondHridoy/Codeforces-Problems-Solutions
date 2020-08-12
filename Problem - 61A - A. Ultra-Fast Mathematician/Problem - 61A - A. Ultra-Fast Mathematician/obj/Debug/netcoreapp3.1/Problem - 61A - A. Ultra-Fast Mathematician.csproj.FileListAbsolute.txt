@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/bin/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 61A - A. Ultra-Fast Mathematician/Problem - 61A - A. Ultra-Fast Mathematician/obj/Debug/netcoreapp3.1/Problem - 61A - A. Ultra-Fast Mathematician.genruntimeconfig.cache
