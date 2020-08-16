@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/bin/Debug/netcoreapp3.1/Problem - 513A - A. Game.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 513A - A. Game/Problem - 513A - A. Game/obj/Debug/netcoreapp3.1/Problem - 513A - A. Game.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/bin/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1354A - A. Alarm Clock/Problem - 1354A - A. Alarm Clock/obj/Debug/netcoreapp3.1/Problem - 1354A - A. Alarm Clock.genruntimeconfig.cache

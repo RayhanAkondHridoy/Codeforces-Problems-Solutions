@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/bin/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1312A - A. Two Regular Polygons/Problem - 1312A - A. Two Regular Polygons/obj/Debug/netcoreapp3.1/Problem - 1312A - A. Two Regular Polygons.genruntimeconfig.cache
