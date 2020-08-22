@@ -6,10 +6,6 @@ namespace A._Wrong_Subtraction___Problem___977A
     {
         static void Main(string[] args)
         {
-            //--------------------------------------------------------------------//
-            ////    Annotation:    A. Wrong Subtraction (Problem - 977A - Codeforces)    ////
-            //------------------------------------------------------------------//
-
             var input = Console.ReadLine();
             var temp = input.Split(' ');
 

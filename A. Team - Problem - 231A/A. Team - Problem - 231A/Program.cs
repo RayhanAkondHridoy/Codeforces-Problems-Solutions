@@ -7,12 +7,6 @@ namespace A._Team___Problem___231A
     {
         static void Main(string[] args)
         {
-            //-----------------------------------------------------------------//
-            ////    Annotation:    A. Team (Problem - 231A - Codeforces)    ////
-            //---------------------------------------------------------------//
-
-
-
             var n = Convert.ToInt32(Console.ReadLine());
             if (n>=1 && n<=1000)
             {

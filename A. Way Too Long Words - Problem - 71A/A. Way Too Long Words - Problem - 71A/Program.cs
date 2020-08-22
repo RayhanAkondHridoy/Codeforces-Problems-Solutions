@@ -6,12 +6,6 @@ namespace A._Way_Too_Long_Words___Problem___71A
     {
         static void Main(string[] args)
         {
-            //-----------------------------------------------------------------------------//
-            ////    Annotation:    A. Way Too Long Words (Problem - 71A - Codeforces)    ////
-            //----------------------------------------------------------------------------//
-
-
-
             var n = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {

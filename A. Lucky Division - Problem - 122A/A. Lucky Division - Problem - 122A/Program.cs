@@ -6,11 +6,6 @@ namespace A._Lucky_Division___Problem___122A
     {
         static void Main(string[] args)
         {
-            //---------------------------------------------------------------------------//
-            ////    Annotation:    A. Lucky Division (Problem - 122A - Codeforces)    ////
-            //-------------------------------------------------------------------------//
-            
-            
             var n = Convert.ToInt32(Console.ReadLine());
 
             if (n>=1 && n<=1000)

@@ -6,13 +6,6 @@ namespace A._Boy_or_Girl___Problem___236A
     {
         static void Main(string[] args)
         {
-            //------------------------------------------------------------------------//
-            ////    Annotation:    A. Boy or Girl (Problem - 236A - Codeforces)    ////
-            //----------------------------------------------------------------------//
-
-
-
-
             var inputName = Console.ReadLine().ToLower();
 
             if (inputName.Length>=1 && inputName.Length<=100)

@@ -6,12 +6,6 @@ namespace A._String_Task___Problem___118A
     {
         static void Main(string[] args)
         {
-            //-------------------------------------------------------------------- ---//
-            ////    Annotation:    A. String Task (Problem - 118A - Codeforces)    ////
-            //----------------------------------------------------------------------//
-
-            
-            
             var input = Console.ReadLine().ToLower();
 
             var vowels = "aeiouy";

@@ -6,10 +6,6 @@ namespace A._Bear_and_Big_Brother___Problem___791A
     {
         static void Main(string[] args)
         {
-            //--------------------------------------------------------------------------------//
-            ////    Annotation:    A. Bear and Big Brother (Problem - 791A - Codeforces)    ////
-            //-------------------------------------------------------------------------------//
-
             var input = Console.ReadLine();
             var temp = input.Split(' ');
 

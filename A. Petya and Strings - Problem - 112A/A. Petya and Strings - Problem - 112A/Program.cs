@@ -6,12 +6,6 @@ namespace A._Petya_and_Strings___Problem___112A
     {
         static void Main(string[] args)
         {
-            //-----------------------------------------------------------------------------//
-            ////    Annotation:    A. Petya and Strings (Problem - 112A - Codeforces)    ////
-            //----------------------------------------------------------------------------//
-
-
-
             var string1 = Console.ReadLine().ToLower();
             var string2 = Console.ReadLine().ToLower();
 

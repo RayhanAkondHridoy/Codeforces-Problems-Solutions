@@ -6,12 +6,6 @@ namespace A._Chat_room___problem___58A
     {
         static void Main(string[] args)
         {
-            //---------------------------------------------------------------------//
-            ////    Annotation:    A. Chat room (Problem - 58A - Codeforces)    ////
-            //-------------------------------------------------------------------//
-
-
-
             var hello = "hello";
 
             var input = Console.ReadLine();

@@ -6,11 +6,6 @@ namespace A._Football___Problem___96A
     {
         static void Main(string[] args)
         {
-            //--------------------------------------------------------------------//
-            ////    Annotation:    A. Football (Problem - 96A - Codeforces)    ////
-            //------------------------------------------------------------------//
-
-
             var inputString = Console.ReadLine();
             if (inputString.Length>=1 && inputString.Length<=100 )
             {

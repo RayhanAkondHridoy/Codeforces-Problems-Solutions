@@ -6,12 +6,6 @@ namespace A._Soldier_and_Bananas___Problem__546A
     {
         static void Main(string[] args)
         {
-            //---------------------------------------------------------------------------__--//
-            ////    Annotation:    A. Soldier and Bananas (Problem - 546A - Codeforces)    ////
-            //------------------------------------------------------------------------------//
-            
-            
-            
             int [] array1 = new int[3];
             var input = Console.ReadLine();
             var inputSpl = input.Split(' ');

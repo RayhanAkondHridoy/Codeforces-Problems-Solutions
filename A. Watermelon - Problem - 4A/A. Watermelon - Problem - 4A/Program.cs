@@ -6,12 +6,6 @@ namespace A._Watermelon___Problem___4A
     {
         static void Main(string[] args)
         {
-            //---------------------------------------------------------------------//
-            ////    Annotation:    A. Watermelon (Problem - 4A - Codeforces)    ////
-            //-------------------------------------------------------------------//
-
-
-
             int w = Convert.ToInt32(Console.ReadLine());
             if (w>=1 && w<=100)
             {
