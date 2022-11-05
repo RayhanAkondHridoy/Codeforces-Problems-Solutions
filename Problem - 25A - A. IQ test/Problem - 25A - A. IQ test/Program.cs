@@ -72,9 +72,7 @@ namespace Problem___25A___A._IQ_test
 
                             Console.WriteLine(index2);
                         }
-                        
-                    }
-                    
+                    } 
                 }
             }
         }
