@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/bin/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 1303A - A. Erasing Zeroes/Problem - 1303A - A. Erasing Zeroes/obj/Debug/netcoreapp3.1/Problem - 1303A - A. Erasing Zeroes.genruntimeconfig.cache

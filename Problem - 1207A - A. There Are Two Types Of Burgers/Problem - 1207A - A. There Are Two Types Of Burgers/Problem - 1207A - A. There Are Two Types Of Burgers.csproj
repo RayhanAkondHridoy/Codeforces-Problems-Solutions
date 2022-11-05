@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Problem___1207A___A._There_Are_Two_Types_Of_Burgers</RootNamespace>
+    </PropertyGroup>
+
+</Project>

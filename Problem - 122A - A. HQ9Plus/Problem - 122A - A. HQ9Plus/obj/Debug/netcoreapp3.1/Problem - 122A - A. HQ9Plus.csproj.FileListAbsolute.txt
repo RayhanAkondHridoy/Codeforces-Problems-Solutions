@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/bin/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 122A - A. HQ9Plus/Problem - 122A - A. HQ9Plus/obj/Debug/netcoreapp3.1/Problem - 122A - A. HQ9Plus.genruntimeconfig.cache

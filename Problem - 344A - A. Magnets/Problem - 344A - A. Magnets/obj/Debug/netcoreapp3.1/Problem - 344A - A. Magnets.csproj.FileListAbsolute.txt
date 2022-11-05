@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/bin/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 344A - A. Magnets/Problem - 344A - A. Magnets/obj/Debug/netcoreapp3.1/Problem - 344A - A. Magnets.genruntimeconfig.cache

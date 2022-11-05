@@ -1,0 +1,13 @@
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.deps.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.runtimeconfig.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.runtimeconfig.dev.json
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/bin/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.csprojAssemblyReference.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.AssemblyInfoInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.AssemblyInfo.cs
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.csproj.CoreCompileInputs.cache
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.dll
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.pdb
+/home/Rayhan_Akond_Hridoy/RiderProjects/Problem - 405A - A. Gravity Flip/Problem - 405A - A. Gravity Flip/obj/Debug/netcoreapp3.1/Problem - 405A - A. Gravity Flip.genruntimeconfig.cache

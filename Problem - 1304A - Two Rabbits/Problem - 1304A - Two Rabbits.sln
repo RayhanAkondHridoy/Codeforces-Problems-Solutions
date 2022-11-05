@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem - 1304A - Two Rabbits", "Problem - 1304A - Two Rabbits\Problem - 1304A - Two Rabbits.csproj", "{E4C9B3DB-B79A-41D9-ADF0-CA95674B802F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C9B3DB-B79A-41D9-ADF0-CA95674B802F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C9B3DB-B79A-41D9-ADF0-CA95674B802F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C9B3DB-B79A-41D9-ADF0-CA95674B802F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C9B3DB-B79A-41D9-ADF0-CA95674B802F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
