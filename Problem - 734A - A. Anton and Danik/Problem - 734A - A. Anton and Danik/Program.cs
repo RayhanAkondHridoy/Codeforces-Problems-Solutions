@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Problem___734A___A._Anton_and_Danik
 {
@@ -18,15 +18,10 @@ namespace Problem___734A___A._Anton_and_Danik
                     
                     for (int i = 0; i < s.Length; i++)
                     {
-                        if (s[i]=='A')
-                        {
-                            anton++;
-                        }
-                        else if (s[i]=='D')
-                        {
-                            danik++;
-                        }
+                        if (s[i]=='A')anton++;
+                        else if (s[i]=='D') danik++;
                     }
+                    
                     if (anton>danik)
                     {
                         Console.WriteLine("Anton");
@@ -39,11 +34,8 @@ namespace Problem___734A___A._Anton_and_Danik
                     {
                         Console.WriteLine("Friendship");
                     }
-
                 }
             }
-            
-
         }
     }
 }
