@@ -30,9 +30,6 @@ namespace A._String_Task___Problem___118A
                 }
             }
             Console.WriteLine(output);
-
-
-
         }
     }
 }
