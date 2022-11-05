@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace Problem___479A___A._Expression
@@ -23,13 +23,7 @@ namespace Problem___479A___A._Expression
                 decimal output = array.Max();
 
                 Console.WriteLine(output);
-
-
-            }
-
-
-
-           
+            } 
         }
     }
 }
