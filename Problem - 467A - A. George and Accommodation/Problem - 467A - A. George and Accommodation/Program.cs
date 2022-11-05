@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Problem___467A___A._George_and_Accommodation
 {
@@ -28,7 +28,6 @@ namespace Problem___467A___A._George_and_Accommodation
                 }
 
                 Console.WriteLine(roomNumber);
-
             }
         }
     }
