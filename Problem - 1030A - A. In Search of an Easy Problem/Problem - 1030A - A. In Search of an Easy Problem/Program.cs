@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Problem___1030A___A._In_Search_of_an_Easy_Problem
 {
@@ -31,7 +31,6 @@ namespace Problem___1030A___A._In_Search_of_an_Easy_Problem
                     Console.WriteLine("EASY");
                 }
             }
-            
         }
     }
 }
