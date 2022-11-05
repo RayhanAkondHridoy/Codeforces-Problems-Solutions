@@ -14,8 +14,8 @@ namespace Problem___41A___A._Translation
             if ((s.Length>=1 && s.Length<=100) && (t.Length>=1 && t.Length<=100))
             {
                 var tLength = t.Length - 1;
-
-                bool b = false;
+                var b = false;
+                
                 for (int i = 0; i < s.Length; i++)
                 {
                     if (s[i]==t[tLength])
@@ -30,14 +30,8 @@ namespace Problem___41A___A._Translation
                     }
                 }
 
-                if (b==true)
-                {
-                    Console.WriteLine("YES");
-                }
-                else
-                {
-                    Console.WriteLine("NO");
-                }
+                if (b==true) Console.WriteLine("YES");
+                else Console.WriteLine("NO");
             }
         }
     }
