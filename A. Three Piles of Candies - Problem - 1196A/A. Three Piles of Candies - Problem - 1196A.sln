@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Three Piles of Candies - Problem - 1196A", "A. Three Piles of Candies - Problem - 1196A\A. Three Piles of Candies - Problem - 1196A.csproj", "{DA5AE9C7-1C2E-4C45-991D-CB84FE29057A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5AE9C7-1C2E-4C45-991D-CB84FE29057A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5AE9C7-1C2E-4C45-991D-CB84FE29057A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5AE9C7-1C2E-4C45-991D-CB84FE29057A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5AE9C7-1C2E-4C45-991D-CB84FE29057A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B7E7D1C-F7E6-4F43-BA44-820CA1505D3A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Die Roll - Problem - 9A", "A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A.csproj", "{592D0BD7-E44C-4DD9-ABF0-FD209E49957C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592D0BD7-E44C-4DD9-ABF0-FD209E49957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592D0BD7-E44C-4DD9-ABF0-FD209E49957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592D0BD7-E44C-4DD9-ABF0-FD209E49957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592D0BD7-E44C-4DD9-ABF0-FD209E49957C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B496B419-9E63-4346-A24A-43294CB1054C}
+	EndGlobalSection
+EndGlobal

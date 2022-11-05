@@ -1,0 +1,15 @@
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\bin\Debug\net6.0\A. Die Roll - Problem - 9A.exe
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\bin\Debug\net6.0\A. Die Roll - Problem - 9A.deps.json
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\bin\Debug\net6.0\A. Die Roll - Problem - 9A.runtimeconfig.json
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\bin\Debug\net6.0\A. Die Roll - Problem - 9A.dll
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\bin\Debug\net6.0\A. Die Roll - Problem - 9A.pdb
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.csproj.AssemblyReference.cache
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.AssemblyInfoInputs.cache
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.AssemblyInfo.cs
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.csproj.CoreCompileInputs.cache
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.dll
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\refint\A. Die Roll - Problem - 9A.dll
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.pdb
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\A. Die Roll - Problem - 9A.genruntimeconfig.cache
+C:\Users\rayha\source\repos\A. Die Roll - Problem - 9A\A. Die Roll - Problem - 9A\obj\Debug\net6.0\ref\A. Die Roll - Problem - 9A.dll

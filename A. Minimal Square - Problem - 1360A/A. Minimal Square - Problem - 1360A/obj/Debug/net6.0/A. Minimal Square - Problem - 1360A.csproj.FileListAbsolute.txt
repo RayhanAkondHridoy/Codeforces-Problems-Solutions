@@ -1,0 +1,15 @@
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\bin\Debug\net6.0\A. Minimal Square - Problem - 1360A.exe
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\bin\Debug\net6.0\A. Minimal Square - Problem - 1360A.deps.json
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\bin\Debug\net6.0\A. Minimal Square - Problem - 1360A.runtimeconfig.json
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\bin\Debug\net6.0\A. Minimal Square - Problem - 1360A.dll
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\bin\Debug\net6.0\A. Minimal Square - Problem - 1360A.pdb
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.csproj.AssemblyReference.cache
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.AssemblyInfoInputs.cache
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.AssemblyInfo.cs
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.dll
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\refint\A. Minimal Square - Problem - 1360A.dll
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.pdb
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\A. Minimal Square - Problem - 1360A.genruntimeconfig.cache
+C:\Users\rayha\Desktop\New folder (5)\A. Minimal Square - Problem - 1360A\A. Minimal Square - Problem - 1360A\obj\Debug\net6.0\ref\A. Minimal Square - Problem - 1360A.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "A. Minimal Square - Problem - 1360A/1.0.0": {
+        "runtime": {
+          "A. Minimal Square - Problem - 1360A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Minimal Square - Problem - 1360A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
