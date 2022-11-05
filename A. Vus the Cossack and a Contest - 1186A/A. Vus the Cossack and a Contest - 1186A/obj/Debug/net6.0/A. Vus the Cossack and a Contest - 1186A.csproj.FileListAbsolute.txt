@@ -1,0 +1,15 @@
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\bin\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.exe
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\bin\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.deps.json
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\bin\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.runtimeconfig.json
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\bin\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.dll
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\bin\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.pdb
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.csproj.AssemblyReference.cache
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.AssemblyInfoInputs.cache
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.AssemblyInfo.cs
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.dll
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\refint\A. Vus the Cossack and a Contest - 1186A.dll
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.pdb
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\A. Vus the Cossack and a Contest - 1186A.genruntimeconfig.cache
+C:\Users\rayha\Desktop\New folder (8)\A. Vus the Cossack and a Contest - 1186A\A. Vus the Cossack and a Contest - 1186A\obj\Debug\net6.0\ref\A. Vus the Cossack and a Contest - 1186A.dll

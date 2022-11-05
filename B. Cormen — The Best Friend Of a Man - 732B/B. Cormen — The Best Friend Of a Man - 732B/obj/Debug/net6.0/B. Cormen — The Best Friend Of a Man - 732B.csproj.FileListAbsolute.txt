@@ -1,0 +1,15 @@
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\bin\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.exe
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\bin\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.deps.json
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\bin\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.runtimeconfig.json
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\bin\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.dll
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\bin\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.pdb
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.csproj.AssemblyReference.cache
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.AssemblyInfoInputs.cache
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.AssemblyInfo.cs
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.dll
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\refint\B. Cormen — The Best Friend Of a Man - 732B.dll
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.pdb
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\B. Cormen — The Best Friend Of a Man - 732B.genruntimeconfig.cache
+C:\Users\rayha\Desktop\New folder (8)\B. Cormen — The Best Friend Of a Man - 732B\B. Cormen — The Best Friend Of a Man - 732B\obj\Debug\net6.0\ref\B. Cormen — The Best Friend Of a Man - 732B.dll
