@@ -17,7 +17,6 @@ namespace Problem___1230A___A._Dawid_and_Bags_of_Candies
                 Console.WriteLine("YES");
             else
                 Console.WriteLine("NO");
-
         }
     }
 }
