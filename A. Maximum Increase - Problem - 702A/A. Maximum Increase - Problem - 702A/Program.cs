@@ -21,7 +21,6 @@ for (int i = 0; i < n - 1; i++)
     {
         bc = 1;
     }
-
 }
 
 Console.WriteLine(mc);
