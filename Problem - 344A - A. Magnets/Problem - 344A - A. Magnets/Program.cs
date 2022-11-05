@@ -27,7 +27,6 @@ namespace Problem___344A___A._Magnets
                         count++;
                         x = input;
                     }
-                    
                 }
 
                 Console.WriteLine(count);
