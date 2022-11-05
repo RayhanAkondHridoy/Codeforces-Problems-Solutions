@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace A._Watermelon___Problem___4A
 {
@@ -9,15 +9,8 @@ namespace A._Watermelon___Problem___4A
             int w = Convert.ToInt32(Console.ReadLine());
             if (w>=1 && w<=100)
             {
-                if (w<=2 || w%2 !=0)
-                {
-                    Console.WriteLine("NO");
-                }
-                else
-                {
-                    Console.WriteLine("YES");
-                }
-                
+                if (w<=2 || w%2 !=0) Console.WriteLine("NO");
+                else Console.WriteLine("YES");
             }
         }
     }
