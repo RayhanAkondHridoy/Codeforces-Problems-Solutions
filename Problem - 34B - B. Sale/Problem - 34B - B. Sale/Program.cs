@@ -13,6 +13,7 @@ namespace Problem___34B___B._Sale
             int m = input1[1];
             int[] input2 = Array.ConvertAll(Console.ReadLine().Split(' '), int.Parse);
             Array.Sort(input2);
+            
             for(int i = 0; i < n; i++)
             {
                 if (input2[i] < 0)
@@ -22,8 +23,8 @@ namespace Problem___34B___B._Sale
                     if (count >= m)
                         break;
                 }
-                
             }
+            
             Console.WriteLine(sum);
         }
     }
