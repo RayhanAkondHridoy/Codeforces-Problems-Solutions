@@ -37,8 +37,6 @@ namespace A._Team___Problem___231A
                     }
                 }
                 Console.WriteLine(temp);
-
-
             }
         }
     }
