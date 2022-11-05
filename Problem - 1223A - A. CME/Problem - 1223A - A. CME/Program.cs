@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Problem___1223A___A._CME
 {
@@ -15,8 +15,7 @@ namespace Problem___1223A___A._CME
                 else if (n % 2 == 0)
                     Console.WriteLine(0);
                 else
-                    Console.WriteLine(1); ;
-                
+                    Console.WriteLine(1);
             }
         }
     }
