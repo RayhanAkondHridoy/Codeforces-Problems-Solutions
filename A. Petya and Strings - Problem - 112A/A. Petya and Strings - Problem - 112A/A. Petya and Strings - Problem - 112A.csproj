@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <OutputType>Exe</OutputType>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
-        <RootNamespace>A._Petya_and_Strings___Problem___112A</RootNamespace>
-    </PropertyGroup>
-
-</Project>
