@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Problem___405A___A._Gravity_Flip
 {
@@ -7,6 +7,7 @@ namespace Problem___405A___A._Gravity_Flip
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
+            
             if (n>=1 && n<=100)
             {
                 var x = Console.ReadLine();
@@ -32,6 +33,7 @@ namespace Problem___405A___A._Gravity_Flip
                         break;
                     }
                 }
+                
                 if (f!=false)
                 {
                     Array.Sort(input);
@@ -40,7 +42,6 @@ namespace Problem___405A___A._Gravity_Flip
                         Console.Write(v+" ");
                     }
                 }
-
             }
         }
     }
