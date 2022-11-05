@@ -11,7 +11,8 @@ namespace Problem___513A___A._Game
             int n2 = input[1];
             int k1 = input[2];
             int k2 = input[3];
-            Console.WriteLine(n1>n2?"First":"Second");
+            
+            Console.WriteLine(n1 > n2 ? "First" : "Second");
         }
     }
 }
